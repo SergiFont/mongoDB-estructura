@@ -368,37 +368,37 @@ db.sales.insertMany(
     [
         {
             "_id": ObjectId("63de478c4b978dcbe903f351"),
-            "sale date": "2001-05-21",
+            "sale_date": "2001-05-21",
             "glasses_id": ObjectId("63de476f4b978dcbe903f332"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f70f"),
             "employee_id": ObjectId("63de47534b978dcbe903f32c")
         }, {
             "_id": ObjectId("63de478c4b978dcbe903f352"),
-            "sale date": "2023-01-27",
+            "sale_date": "2023-01-27",
             "glasses_id": ObjectId("63de476f4b978dcbe903f333"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f710"),
             "employee_id": ObjectId("63de47534b978dcbe903f32d")
         }, {
             "_id": ObjectId("63de478c4b978dcbe903f353"),
-            "sale date": "1994-08-15",
+            "sale_date": "1994-08-15",
             "glasses_id": ObjectId("63de476f4b978dcbe903f334"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f711"),
             "employee_id": ObjectId("63de47534b978dcbe903f32e")
         }, {
             "_id": ObjectId("63de478c4b978dcbe903f354"),
-            "sale date": "1979-04-06",
+            "sale_date": "1979-04-06",
             "glasses_id": ObjectId("63de476f4b978dcbe903f335"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f712"),
             "employee_id": ObjectId("63de47534b978dcbe903f32f")
         }, {
             "_id": ObjectId("63de478c4b978dcbe903f355"),
-            "sale date": "1989-06-18",
+            "sale_date": "1989-06-18",
             "glasses_id": ObjectId("63de476f4b978dcbe903f336"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f713"),
             "employee_id": ObjectId("63de47534b978dcbe903f330")
         }, {
             "_id": ObjectId("63de478c4b978dcbe903f356"),
-            "sale date": "1986-04-18",
+            "sale_date": "1986-04-18",
             "glasses_id": ObjectId("63de476f4b978dcbe903f337"),
             "costumer_id": ObjectId("63dd3271f52e5c548794f714"),
             "employee_id": ObjectId("63de47534b978dcbe903f32c")
